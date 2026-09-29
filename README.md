@@ -22,8 +22,7 @@ This builds on the Project 1 submission (classical ML + deep learning detectors)
 
 ## Live Demo
 
-- **Hugging Face Spaces:** _add your deployed Space URL here after deployment_
-- **Demo video (5–10 min):** _add your video link here_
+- **Hugging Face Spaces:** [huggingface.co/spaces/Hamzamehmood46/writedetect](https://huggingface.co/spaces/Hamzamehmood46/writedetect) (free CPU tier; it sleeps when idle, so the first load can take a minute)
 
 ## Dataset
 
